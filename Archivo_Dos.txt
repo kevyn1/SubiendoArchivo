@@ -1,0 +1,1 @@
+Este es un cambio antes de iniciar con git, primera parte.
